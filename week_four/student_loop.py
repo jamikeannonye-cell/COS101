@@ -6,3 +6,5 @@
 print()
 print()
 for number in range(1, )
+print("enter a number to loop")
+print("enter a second one")
